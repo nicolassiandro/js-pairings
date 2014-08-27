@@ -1,0 +1,15 @@
+{
+  "name": "js-pairings",
+  "version": "1.0.0",
+  "description": "A simple Javascript application for pairings matching.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicolas Siandro / Gabriel Martinez",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^1.3.6",
+    "gulp": "^3.8.7"
+  }
+}
