@@ -1,0 +1,18 @@
+{
+    "developers":
+        [ {"name": "Mariano Remedi","image": "/images/turco.jpg"},
+            {"name": "Ale Arce","image": "/images/ale.jpg"},
+            {"name": "Maximiliano Ferreyra","image": "/images/charca.jpg"},
+            {"name": "Hernan Segueti","image": "/images/hernan.jpg"},
+            {"name": "Julio Danni","image": "/images/julio.jpg"},
+            {"name": "Facundo Stevez","image": "/images/facu.jpg"},
+            {"name": "Diego Martinez","image": "/images/diego.jpg"},
+            {"name": "Nicolas Siandro","image": "/images/nico.jpg"},
+            {"name": "Gabriel Martinez","image": "/images/gaby.jpg","alias": "/images/sauron.jpg"},
+            {"name": "Javier Bacareli","image": "/images/javi.jpg"},
+            {"name": "Kevin Prox","image": "/images/kevin.jpg"},
+            {"name": "Emiliano Santi","image": "/images/emi.jpg"}
+
+        ]
+
+}
